@@ -1,0 +1,11 @@
+apt update && apt upgrade
+pkg install unstable-repo
+pkg install metasploit
+pkg install wget openssl-tool proot -y && hash -r>
+apt install git
+git clone https://github.com/Manisso/fsociety
+apt install figlet toilet
+figlet mr
+figlet marvel
+figlet 007
+toilet complete
